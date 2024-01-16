@@ -39,3 +39,7 @@
 
 # Installed gems
 /vendor/bundle/
+
+# Local Databases
+development.sqlite
+test.sqlite
