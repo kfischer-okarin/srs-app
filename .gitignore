@@ -41,5 +41,5 @@
 /vendor/bundle/
 
 # Local Databases
-development.sqlite
-test.sqlite
+development.sqlite*
+test.sqlite*
